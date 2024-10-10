@@ -1,4 +1,11 @@
+body {
+    background-image: url('https://picsum.photos/2000/1000?image=43');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+  }
 form {
+    background-color: beige;
     width: 50%;
     margin: 40px auto;
     padding: 20px;
